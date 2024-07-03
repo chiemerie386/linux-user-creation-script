@@ -11,7 +11,7 @@ This repository contains a bash script called `create_users.sh` that automates t
 - Sets up home directories with appropriate permissions.
 - Generates random passwords for each user.
 - Logs all actions to `/var/log/user_management.log`.
-- Stores generated passwords securely in `/var/secure/user_passwords.csv`.
+- Stores generated passwords securely in `/var/secure/user_passwords.txt`.
 
 ## Prerequisites
 

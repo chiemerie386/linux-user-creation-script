@@ -4,7 +4,7 @@
 LOGFILE="/var/log/user_management.log"
 
 # Password file
-PASSWORD_FILE="/var/secure/user_passwords.csv"
+PASSWORD_FILE="/var/secure/user_passwords.txt"
 
 # Function to log messages
 log() {
